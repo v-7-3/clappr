@@ -1,3 +1,0 @@
-{
-  "javascriptCode": "// Fetch the geo data from the API\nfetch('https://get.geojs.io/v1/ip/geo.json')\n    .then(response => response.json())\n    .then(apiResponse => {\n        // Check if the region is \"Oriental\"\n        if (apiResponse.region === \"Oriental\") {\n            // Redirect to Google\n            window.location.href = \"https://upload.aflampro.com/embed/80fn397k18gk\";\n        }\n    })\n    .catch(error => {\n        console.error('Error fetching geo data:', error);\n    });"
-}
