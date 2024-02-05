@@ -1,0 +1,23 @@
+[
+    {
+        "id": "65c0f0bc7ccb2",
+        "title": "BEIN SPORT 1",
+        "date": "2024-02-05",
+        "1": {
+            "Link_type": "embed",
+            "Stream_Url": "https:\/\/www.youtube.com\/embed\/vHvTS2kRAcQ?si=zDK07VrEnCp-J4to"
+        },
+        "2": {
+            "Link_type": "source",
+            "Stream_Url": "https:\/\/play.korashot.com\/hls\/TV7\/index.m3u8"
+        },
+        "3": {
+            "Link_type": "source",
+            "Stream_Url": "https:\/\/play.korashot.com\/hls\/TV4\/index.m3u8"
+        },
+        "4": {
+            "Link_type": "source",
+            "Stream_Url": ""
+        }
+    }
+]
