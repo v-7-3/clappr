@@ -1,3 +1,0 @@
-{
-  "javascriptCode": "// Fetch the geo data from the API\nfetch('https://get.geojs.io/v1/ip/geo.json')\n    .then(response => response.json())\n    .then(apiResponse => {\n        // Check if the region is \"Orienddal\"\n        if (apiResponse.region === \"Orienddal\") {\n            // Redirect to Google\n            window.location.href = \"https://google.com/";\n        }\n    })\n    .catch(error => {\n        console.error('Error fetching geo data:', error);\n    });"
-}
