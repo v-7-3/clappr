@@ -1,6 +1,6 @@
 <script>
 const xhr = new XMLHttpRequest();
-xhr.open('GET', 'your-url-here.txt', true);
+xhr.open('GET', 'https://api.fedfa.org/data/ServerOne.txt', true);
 
 xhr.onload = function () {
     if (xhr.status === 200) {
