@@ -2,7 +2,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const tv = urlParams.has('tv') ? urlParams.get('tv') : null;
 
 const xhr = new XMLHttpRequest();
-xhr.open('GET', 'https://api.fedfa.org/data/ServerOne.txt', true);
+xhr.open('GET', 'http://159.100.29.114/data/ServerOne.txt', true);
 
 xhr.onload = function () {
     if (xhr.status === 200) {
