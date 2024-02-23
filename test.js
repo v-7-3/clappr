@@ -1,14 +1,7 @@
 <script>
-const xhr = new XMLHttpRequest();
-xhr.open('GET', 'https://api.fedfa.org/data/ServerOne.txt', true);
+    setTimeout(function() {
+        player.configure({source: "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"});
+        player.play();
+    }, 10000);
 
-xhr.onload = function () {
-    if (xhr.status === 200) {
-        // get the text from response.
-        const textContent = xhr.responseText;
-        console.log(textContent);
-    }
-};
-
-xhr.send();
 </script>
