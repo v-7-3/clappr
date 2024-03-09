@@ -1,1 +1,91 @@
-const _0x4e7a8e=_0x76b3;(function(_0x4f69d6,_0x159955){const _0x723da7=_0x76b3,_0x4891bb=_0x4f69d6();while(!![]){try{const _0xb153fa=parseInt(_0x723da7(0xa5))/0x1+parseInt(_0x723da7(0x95))/0x2*(-parseInt(_0x723da7(0xae))/0x3)+-parseInt(_0x723da7(0x99))/0x4+-parseInt(_0x723da7(0xab))/0x5+-parseInt(_0x723da7(0xad))/0x6*(parseInt(_0x723da7(0x8f))/0x7)+-parseInt(_0x723da7(0xa4))/0x8+-parseInt(_0x723da7(0xa8))/0x9*(-parseInt(_0x723da7(0x90))/0xa);if(_0xb153fa===_0x159955)break;else _0x4891bb['push'](_0x4891bb['shift']());}catch(_0x261b8f){_0x4891bb['push'](_0x4891bb['shift']());}}}(_0x5195,0x19a24),$(document)[_0x4e7a8e(0x91)](function(){const _0x932017=_0x4e7a8e;$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch-button')[_0x932017(0xa9)](function(){const _0x5e85ec=_0x932017;$(_0x5e85ec(0xb5))['slideToggle'](),$(_0x5e85ec(0x98))[_0x5e85ec(0xa6)](_0x5e85ec(0xac)),$(_0x5e85ec(0x88))[_0x5e85ec(0x9a)](),$(_0x5e85ec(0x8e))['removeClass'](_0x5e85ec(0xac));}),$(_0x932017(0x8e))['click'](function(){const _0x881afe=_0x932017;$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu')[_0x881afe(0x8c)](),$(_0x881afe(0x8e))[_0x881afe(0xa6)](_0x881afe(0xac)),$(_0x881afe(0xb5))[_0x881afe(0x9c)](),$(_0x881afe(0x98))[_0x881afe(0xb2)](_0x881afe(0xac));}),$(_0x932017(0x9f))[_0x932017(0xa9)](function(){const _0x3d058e=_0x932017;$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu,\x20.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch')['hide'](),$(_0x3d058e(0x8b))[_0x3d058e(0xb2)](_0x3d058e(0xac));}),$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalfilter-button')[_0x932017(0xa9)](function(){const _0x5621a7=_0x932017;$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalfilters')[_0x5621a7(0x8c)](_0x5621a7(0xb1)),$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalfilter-button')[_0x5621a7(0xa6)]('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive');}),$(_0x932017(0x94))[_0x932017(0xa9)](function(){const _0x5b11ba=_0x932017;$(_0x5b11ba(0xa1))['fadeIn']();}),$(_0x932017(0xa1))['click'](function(){const _0x26cc98=_0x932017;$(_0x26cc98(0xa1))[_0x26cc98(0x8a)]();}),$(_0x932017(0xb0))[_0x932017(0xa9)](function(){const _0x4b71df=_0x932017;$(_0x4b71df(0x93))[_0x4b71df(0x8c)](),$(_0x4b71df(0xb0))[_0x4b71df(0xa6)](_0x4b71df(0xac));}),$(_0x932017(0x92))[_0x932017(0xa9)](function(){const _0x39e3b7=_0x932017;$(_0x39e3b7(0x93))[_0x39e3b7(0x9c)](),$(_0x39e3b7(0xb0))[_0x39e3b7(0xb2)](_0x39e3b7(0xac));}),$(window)[_0x932017(0x9d)](function(){const _0x866824=_0x932017;$(this)[_0x866824(0xa0)]()!=0x0?$(_0x866824(0xa7))[_0x866824(0x85)]():$(_0x866824(0xa7))['fadeOut']();}),$('#scroll-top')['click'](function(){$('body,html')['animate']({'scrollTop':0x0},0x320);});}));const urlParams=new URLSearchParams(window[_0x4e7a8e(0x9b)]['search']),tv=urlParams[_0x4e7a8e(0x89)]('tv')?urlParams[_0x4e7a8e(0xa3)]('tv'):null,xhr=new XMLHttpRequest();function _0x76b3(_0x2761d1,_0x22ba49){const _0x5195ae=_0x5195();return _0x76b3=function(_0x76b3de,_0x1f0d8e){_0x76b3de=_0x76b3de-0x85;let _0x5cb3fd=_0x5195ae[_0x76b3de];return _0x5cb3fd;},_0x76b3(_0x2761d1,_0x22ba49);}xhr[_0x4e7a8e(0x97)](_0x4e7a8e(0x9e),_0x4e7a8e(0x96),!![]),xhr[_0x4e7a8e(0x87)]=function(){const _0x2ffa79=_0x4e7a8e;if(xhr[_0x2ffa79(0x8d)]===0xc8){const _0x3aff72=xhr[_0x2ffa79(0xaf)];console[_0x2ffa79(0xb4)](_0x3aff72),setTimeout(function(){const _0x14cdfd=_0x2ffa79;changeVideoSource(player,_0x14cdfd(0xa2)+_0x3aff72+_0x14cdfd(0x86)+tv+_0x14cdfd(0xb3));},0x493e0);}},xhr[_0x4e7a8e(0xaa)]();function changeVideoSource(_0x56881d,_0x145c9c){_0x56881d['load'](_0x145c9c);}function _0x5195(){const _0x6ac055=['scrollTop','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormaldim','https://cdn','get','1463824nassGS','4151ljnkTA','toggleClass','#scroll-top','468faMKSw','click','send','827865bCLLyF','livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive','6ncDUvQ','150312TWwVeD','responseText','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalcomments-block\x20.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsub-title','livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalfullscreen','removeClass','/index.m3u8','log','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch','fadeIn','.fedfa.org/hls/','onload','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu','has','fadeOut','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch-button,\x20.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu-button','slideToggle','status','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu-button','657979lTtCIC','153140FMYgAH','ready','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalhide-comments','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalcomments','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormaldim-mode','6ogLDJR','https://play.kora-live.stream/data/ServerTow.txt','open','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch-button','410492PQfjCY','hide','location','slideUp','scroll','GET','.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalwrapper'];_0x5195=function(){return _0x6ac055;};return _0x5195();}
+
+
+
+$(document).ready(function(){
+    
+   	$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch-button').click(
+		function() {
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch').slideToggle();
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch-button').toggleClass('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive');
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu').hide();
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu-button').removeClass('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive');
+            	});
+            	
+   	$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu-button').click(
+		function() {
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu').slideToggle();
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu-button').toggleClass('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive');
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch').slideUp();
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch-button').removeClass('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive');
+            	});
+            	
+   	$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalwrapper').click(
+		function() {
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu, .livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch').hide();
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsearch-button, .livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalmenu-button').removeClass('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive');
+            	});
+            	
+   	$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalfilter-button').click(
+		function() {
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalfilters').slideToggle('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalfullscreen');
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalfilter-button').toggleClass('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive');
+            	});
+            	
+   	$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormaldim-mode').click(
+		function() {
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormaldim').fadeIn();
+            	});
+            	
+   	$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormaldim').click(
+		function() {
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormaldim').fadeOut();
+            	});
+            	
+   	$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalcomments-block .livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsub-title').click(
+		function() {
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalcomments').slideToggle();
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalcomments-block .livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsub-title').toggleClass('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive');
+            	});
+            	
+   	$('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalhide-comments').click(
+		function() {
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalcomments').slideUp();
+            $('.livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalcomments-block .livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalsub-title').removeClass('livedemopreviewforsxtemplate1inrealversionallclassnamesisnormalactive');
+            	});
+        	
+
+        $(window).scroll(function() {
+            if($(this).scrollTop() != 0) {
+                $('#scroll-top').fadeIn();
+            } else {
+                $('#scroll-top').fadeOut();
+            }
+        });
+        $('#scroll-top').click(function() {
+            $('body,html').animate({scrollTop:0},800);
+        });
+ 
+});
+const urlParams = new URLSearchParams(window.location.search);
+const tv = urlParams.has('tv') ? urlParams.get('tv') : null;
+
+const xhr = new XMLHttpRequest();
+xhr.open('GET', 'https://play.kora-live.stream/data/ServerTow.txt', true);
+
+xhr.onload = function () {
+    if (xhr.status === 200) {
+        // get the text from response.
+        const textContent = xhr.responseText;
+        console.log(textContent);
+
+        setTimeout(function() {
+            changeVideoSource(player, `https://cdn${textContent}.fedfa.org/hls/${tv}/index.m3u8`);
+        }, 3000);
+    }
+};
+
+xhr.send();
+
+function changeVideoSource(player, newSource) {
+    player.load(newSource);
+}
