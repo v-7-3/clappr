@@ -1,5 +1,5 @@
 {
-    "country_code": ["NE", "IR", "CD", "BR", "ET", "TZ", "ZA", "KE", "SD", "BD", "ID"],
+    "country_code": ["NE", "IR", "CD", "BR", "ET", "TZ"],
     "regions": [
         "Oriental",
         "Fes-Meknes",
