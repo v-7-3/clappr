@@ -1,0 +1,9 @@
+{
+    "country_code": ["NE", "IR", "CD", "BR", "ET", "TZ", "ZA", "KE", "SD", "BD", "ID"],
+    "regions": [
+        "Oriental",
+        "Fes-Meknes",
+        "Casablanca-Settat",
+        "Jakarta"
+    ]
+}
